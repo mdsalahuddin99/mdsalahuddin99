@@ -1,52 +1,71 @@
-### Hi there 👋, I'm Md Salah Uddin  
-#### 💻 Frontend Developer  
+<!-- Dark Modern GitHub Profile README for Md Salah Uddin -->
 
-![I am Frontend developer](https://jj09.net/assets/2015/11/developer.png)
+<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Md Salah Uddin</span></h1>
+<h3 align="center">💻 Frontend Developer | Crafting clean, modern web experiences</h3>
 
----
-
-I’m a passionate **Frontend Developer** who loves turning ideas into interactive, user-friendly web experiences.  
-I made this project just for fun — it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
----
-
-### 🧠 Skills  
-HTML5 | CSS3 | Bootstrap 5 | Tailwind CSS | React.js | JavaScript | CMS (WordPress)
-
-- 🌱 I’m currently learning **Next.js**  
-- ⚡ Fun fact: I love exploring new UI trends and optimizing performance  
+<p align="center">
+  <img src="https://jj09.net/assets/2015/11/developer.png" width="280" />
+</p>
 
 ---
 
-### 🌐 Connect with me  
+### 🧠 About Me  
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30">](https://github.com/YOUR_USERNAME)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev" height="30">](https://dev.to/YOUR_PROFILE)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30">](https://facebook.com/YOUR_PROFILE)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30">](https://instagram.com/YOUR_PROFILE)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30">](https://twitter.com/YOUR_PROFILE)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="30">](https://YOUR_WEBSITE_URL)
+🚀 A passionate **Frontend Developer** who loves creating fast, responsive, and user-friendly web applications.  
+🎯 I enjoy combining **clean code**, **modern design**, and **smooth user experience**.  
 
----
-
-### 🏆 Badges  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>  
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>  
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>  
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+- 🌱 Currently learning **Next.js**  
+- 🧩 Focused on mastering **React ecosystem**  
+- ⚡ Fun fact: I love experimenting with new design systems and animations  
 
 ---
 
-### 📊 GitHub Stats  
+### 🛠️ Tech Stack  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=YOUR_USERNAME)  
-![GitHub metrics](https://metrics.lecoq.io/YOUR_USERNAME)  
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/YOUR_USERNAME/contributions?format=svg&private=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,wordpress,figma" />
+</p>
 
 ---
-⭐️ **“Code. Learn. Build. Repeat.”**
+
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="28" /></a> &nbsp;
+  <a href="https://facebook.com/YOUR_PROFILE" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="28" /></a> &nbsp;
+  <a href="https://instagram.com/YOUR_PROFILE" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="28" /></a> &nbsp;
+  <a href="https://twitter.com/YOUR_PROFILE" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="28" /></a> &nbsp;
+  <a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" alt="Website" height="28" /></a>
+</p>
+
+---
+
+### 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&margin-w=8&no-frame=true" />
+</p>
+
+---
+
+### ✨ Quote  
+
+> _“The best way to predict the future is to create it.”_  
+> — **Alan Kay**
+
+<p align="center">💡 <b>Keep learning, keep building, and never stop exploring!</b></p>
+
+---
