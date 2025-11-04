@@ -81,9 +81,11 @@
 
 ---
 ## ✨ Quote
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9A6DFF&center=true&vCenter=true&width=600&lines=%E2%80%9CThe+best+way+to+predict+the+future+is+to+create+it.%E2%80%9D+—+Alan+Kay" alt="Typing Quote" />
-</p>
+<div align="center" style="background-color:#0D1117; padding:15px; border-radius:10px; border:1px solid #9A6DFF; width:80%; margin:auto;">
+  <em style="color:#9A6DFF;">“The best way to predict the future is to create it.”</em><br>
+  <strong>— Alan Kay</strong>
+</div>
+
 
 ---
 
