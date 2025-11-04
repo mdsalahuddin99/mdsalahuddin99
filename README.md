@@ -47,10 +47,10 @@
 
 <p align="center">
   <a href="https://github.com/mdsalahuddin99" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
-  <a href="https://facebook.com/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" /></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://skillicons.dev/icons?i=web" width="45" /></a>
+  <a href="https://facebook.com/mdsalahuddindev" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" /></a>
+  <a href="https://instagram.com/mdsalahuddindev" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
+  <a href="https://twitter.com/mdsalahuddindev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
+  
 </p>
 
 ---
