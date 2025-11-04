@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#9A6DFF">Md Salah Uddin</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9A6DFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;WordPress+Expert;Crafting+Clean+%26+Modern+Web+Experiences;Loves+Smooth+UI+%26+Animations" alt="Typing SVG" />
+  <img src=" https://postimg.cc/FdXbpWqj" alt="Md Salah Uddi | fron-end developer " />
 </p>
 
 <p align="center">
