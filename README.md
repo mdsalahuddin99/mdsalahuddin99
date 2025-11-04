@@ -57,13 +57,15 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsalahuddin99&show_icons=true&theme=tokyonight" alt="Md Salah Uddin's GitHub stats" width="48%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mdsalahuddin99&theme=tokyonight&hide_border=false" alt="Md Salah Uddin's GitHub streak" width="48%"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdsalahuddin99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF&icon_color=9A6DFF" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsalahuddin99&theme=radical&hide_border=true&background=0D1117&ring=9A6DFF&fire=9A6DFF" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsalahuddin99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF" width="48%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsalahuddin99&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
-</div>
 
 ---
 
