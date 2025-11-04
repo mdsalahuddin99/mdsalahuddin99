@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/FdXbpWqj/Md-Salah-Uddin.png" alt="Md Salah Uddin Banner" width="100%" />
+  <img src="https://i.postimg.cc/RFNPM2Lb/Md-Salah-Uddin.png" alt="Md Salah Uddin Banner" width="100%" />
 </p>
 
 <p align="center">
