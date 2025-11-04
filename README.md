@@ -15,7 +15,7 @@
 <h3 align="center">💻 Frontend Developer & WordPress Expert | Crafting clean, modern web experiences</h3>
 <br>
 
-<img align="right" alt="coding" width="400" src=" https://lottiefiles.com/free-animation/programming-computer-wr6yLa2L3D">
+<!-- <img align="right" alt="coding" width="400" src=" https://lottiefiles.com/free-animation/programming-computer-wr6yLa2L3D"> -->
 
 <br>
 
@@ -81,4 +81,4 @@
 
 ---
 
-## 💡 Keep learning, keep building, and never stop exploring!
+## 💡  never stop learning!
