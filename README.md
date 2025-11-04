@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#9A6DFF">Md Salah Uddin</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9A6DFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Crafting+Clean+%26+Modern+Web+Experiences;Loves+Smooth+UI+%26+Animations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9A6DFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;WordPress+Expert;Crafting+Clean+%26+Modern+Web+Experiences;Loves+Smooth+UI+%26+Animations" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,17 +11,18 @@
 </p>
 <br>
 
-<h3 align="center">💻 Frontend Developer | Crafting clean, modern web experiences</h3>
+<h3 align="center">💻 Frontend Developer & WordPress Expert | Crafting clean, modern web experiences</h3>
 <br>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <br>
 
-- 🧠 I’m a passionate **Frontend Developer** who loves creating fast, responsive, and user-friendly web applications. <br>
+- 🧠 I’m a passionate **Frontend Developer & WordPress Expert** who loves creating fast, responsive, and user-friendly web applications. <br>
 - 🚀 I enjoy combining clean code, modern design, and smooth user experience. <br>
 - 🌱 Currently learning **Next.js**. <br>
 - 🧩 Focused on mastering the **React ecosystem**. <br>
+- ⚙️ Experienced in **WordPress theme customization**, **plugin integration**, and **website optimization**. <br>
 - ⚡ Fun fact: I love experimenting with new design systems and animations. <br>
 
 <br>
@@ -29,10 +30,12 @@
 
 ## 🛠️ Tech Stack & Tools
 
+### 🧩 Frontend & CMS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,wordpress" />
 </p>
 
+### 🧰 Tools & Others
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel" />
 </p>
@@ -42,11 +45,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/mdsalahuddin99"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="https://facebook.com/"><img src="https://skillicons.dev/icons?i=facebook" width="40" /></a>
-  <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-  <a href="https://yourwebsite.com"><img src="https://skillicons.dev/icons?i=web" width="40" /></a>
+  <a href="https://github.com/mdsalahuddin99" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+  <a href="https://facebook.com/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" /></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
+  <a href="https://yourwebsite.com" target="_blank"><img src="https://skillicons.dev/icons?i=web" width="45" /></a>
 </p>
 
 ---
