@@ -1,15 +1,16 @@
 <!-- ======== 🧠 MD SALAH UDDIN — DARK PROFESSIONAL PROFILE ======== -->
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#9A6DFF">Md Salah Uddin</span></h1>
+<h1 align="center">
+  👋 Hey there, I'm <span style="color:#9A6DFF">Md Salah Uddin</span>
+</h1>
 
 <p align="center">
-  <img src=" https://postimg.cc/FdXbpWqj" alt="Md Salah Uddi | fron-end developer " />
+  <img src="https://i.postimg.cc/FdXbpWqj/Md-Salah-Uddin.png" alt="Md Salah Uddin Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5d459a42-de86-4aef-a6c3-6ac1d99b1a96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9A6DFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;WordPress+Expert;Crafting+Clean+%26+Modern+Web+Experiences;Loves+Smooth+UI+%26+Animations" alt="Typing SVG" />
 </p>
-<br>
 
 <h3 align="center">💻 Frontend Developer & WordPress Expert | Crafting clean, modern web experiences</h3>
 <br>
