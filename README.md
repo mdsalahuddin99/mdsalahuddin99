@@ -15,7 +15,7 @@
 <h3 align="center">💻 Frontend Developer & WordPress Expert | Crafting clean, modern web experiences</h3>
 <br>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src=" https://www.flaticon.com/free-animated-icon/interface_14183484?term=computer&page=1&position=3&origin=search&related_id=14183484">
 
 <br>
 
